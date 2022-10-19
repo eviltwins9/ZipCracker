@@ -25,3 +25,6 @@ Download 1: https://anonfiles.com/4fk7sfDdy8/zipcrack_py > zipcrack.py
 Download 2: https://anonfiles.com/3akescD0ye/wordlist_txt > wordlist.txt
 
 
+#forgot
+
+Put your zip file inside same folder like others
